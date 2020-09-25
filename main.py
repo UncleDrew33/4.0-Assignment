@@ -20,5 +20,5 @@ x = -50
 y = 50
 for i in range(10):
   flower(20,x,y)
-  x = x + 30
-  y = y + 30
+  x = x + 90
+  y = y 
